@@ -3,6 +3,4 @@ return {
   -- Me
   "6AB63972-CF49-479E-B158-DD32F7A48107",
   -- Beef
-  "42C0F16E-3CC5-49A5-A3B5-6660782D3BC3",
-  -- Jecka
 }
